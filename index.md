@@ -1,5 +1,7 @@
 ## Welcome to the Architect's Website!
 
+![McMaster Start Coding Picture](Image Pasted at 2020-4-22 17-38.png)
+
 Welcome to my site! [Go to YouTube](https://youtube.com)
 
 [Read more about me!](about)
