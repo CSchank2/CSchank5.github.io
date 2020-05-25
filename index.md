@@ -14,3 +14,7 @@ Welcome to my site! [Go to YouTube](https://youtube.com)
 - Minecraft
 - Torchlight
 - Kerbal Space Program
+
+# A cute picture of a dog
+
+![Picture of a cute dog](https://www.guidedogs.org/wp-content/uploads/2018/01/Mobile.jpg)
