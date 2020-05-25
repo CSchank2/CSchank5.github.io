@@ -4,7 +4,7 @@
 
 Welcome to my site! [Go to YouTube](https://youtube.com)
 
-[Read more about me!](about)
+[Read more about *me*!](about)
 
 ## My Favourite Fruits
 1. Blueberries
@@ -20,3 +20,9 @@ Welcome to my site! [Go to YouTube](https://youtube.com)
 # A cute picture of a dog
 
 ![Picture of a cute dog](https://www.guidedogs.org/wp-content/uploads/2018/01/Mobile.jpg)
+
+```elm
+x = "y"
+
+type Fruit = Banana | Orange | Tomato
+```
