@@ -7,8 +7,8 @@ Welcome to my site!
 2. Strawberries
 3. Bananas
 
-## A list of things
+## A list of video games I like
 
-- Thing 1
-- Thing 2
-- Thing 3
+- Minecraft
+- Torchlight
+- Kerbal Space Program
